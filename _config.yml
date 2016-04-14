@@ -1,0 +1,20 @@
+# Site settings
+title: Akinox Developer Blog
+header-img: img/home-bg.jpg
+email: christian.droulers@akinox.com
+copyright_name: Akinox
+description: "Developers' Blog for Akinox Solutions Inc."
+baseurl: ""
+url: "http://geeks.akinox.com"
+github_username: akinoxsolutions
+bitbucket_username: akinox
+email_username: christian.droulers@akinox.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed, kramdown, jekyll-watch, rouge]
