@@ -1,0 +1,2 @@
+- Pre-loading CSS Bundles with System.Web.Optimizations (in login page, with AtlasMUHC.sln).
+- 
