@@ -2,6 +2,8 @@
 
 Source for the Developer blog at http://geeks.akinox.com/
 
+Free images here: https://www.elegantthemes.com/blog/resources/35-free-background-images-to-use-on-your-wordpress-website
+
 ## Run / Build / Whatever
 
 Ruby 2+ and NodeJS required.

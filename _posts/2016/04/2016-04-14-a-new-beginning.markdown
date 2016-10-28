@@ -9,8 +9,8 @@ header-img: "img/post-bg-06.jpg"
 
 Oh dear, my first blog post!
 
-<a href="{{ site.baseurl }}/img/post-sample-image.jpg">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+<a href="{{ site.baseurl }}/img/post-bg-fjord.jpg">
+    <img src="{{ site.baseurl }}/img/post-bg-fjord.jpg" alt="Post Sample Image" width="750">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
