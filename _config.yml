@@ -14,7 +14,7 @@ email_username: christian.droulers@akinox.com
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed, kramdown, jekyll-watch, rouge]
