@@ -16,9 +16,9 @@ troublesome to setup backend development. It involved setting up a Windows VM on
 Visual Studio 2015, SQL Server and possibly other dependencies to build the legacy application where
 the database backup and database migrations are currently held. Then, once that was done, network
 configuration and port forwarding and so on had to be built. This was a long and complicated process
-which also is heavy on a smaller development machine.
+which is also heavy on a smaller development machine.
 
-With the recent arrival of [MSSQL on Linx](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-Linux),
+With the recent arrival of [MSSQL on Linux](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-Linux),
 I planned on looking into it. Last week was the final straw when a new developer couldn't get his frontend
 to communicate with the backend. I decided to look if there was a docker image for MSSQL.
 [There totally was!](https://hub.docker.com/r/microsoft/mssql-server-linux/)
@@ -52,7 +52,7 @@ to restore the backup.
 It's also possible to install `sqlcmd` directly on the container after attaching to it.
 [Here are instructions on installing it](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools).
 
-Once install, I had two extra steps before being able to run it.
+Once installed, I had two extra steps before being able to run it.
 
     locale-gen
     export LC_ALL="en_US.UTF-8"
