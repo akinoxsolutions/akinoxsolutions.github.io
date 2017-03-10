@@ -1,3 +1,3 @@
 - Pre-loading CSS Bundles with System.Web.Optimizations (in login page, with AtlasMUHC.sln).
 - Blog about Hangfire for scar-tissue
-- Blog about wkhtmltopdf issue with --dpi and --disable-smart-shrinking
+- Blog about testing a Relay component with Mocha and testHelpers.js to override createContainer.
