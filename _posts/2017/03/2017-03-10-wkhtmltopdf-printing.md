@@ -75,3 +75,9 @@ can tell it to render the page as it would for printing.
 
 It's a great solution since it also prevents having two different views for the same data and
 it's easy to re-use known technologies for rendering the HTML.
+
+**EDIT**: There's a bunch of [docker images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=wkhtmltopdf&starCount=0)
+available as well, so you might not even need to download anything to use it!
+
+As I've [posted recently about MSSQL on Docker]({{ site.baseurl }}{% link _posts/2017/03/2017-03-03-cross-platform-development-with-dotnetcore-and-mssql.md %}), it's
+a good idea to dockerize dependencies!
