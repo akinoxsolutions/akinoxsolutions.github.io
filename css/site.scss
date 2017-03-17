@@ -5,6 +5,10 @@
     margin-top: 1em;
 }
 
+.post-content a {
+    text-decoration: underline;
+}
+
 a:not(.no-external)[href^="http://"],
 a:not(.no-external)[href^="https://"] {
     padding-right: 13px;

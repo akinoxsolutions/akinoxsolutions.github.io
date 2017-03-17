@@ -4,5 +4,9 @@
         "**/.DS_Store": true,
         "node_modules": true,
         "_site": true
-    }
+    },
+    "editor.rulers": [
+        100,
+        120
+    ]
 }
