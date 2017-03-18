@@ -17,7 +17,7 @@ and special handling.
 You know what's simple? HTML, CSS and JavaScript. You've probably already got what you want in PDF in web format.
 So why don't we just print that? [`wkhtmltopdf`](https://wkhtmltopdf.org/) to the rescue!
 
-This execute uses [QT](https://www.qt.io/) and the [WebKit](https://webkit.org/) engine
+This uses [QT](https://www.qt.io/) and the [WebKit](https://webkit.org/) engine
 to render an HTML document to PDF. WebKit being a full-featured browser engine means your
 JavaScript executes too. That means you can even render your
 <abbr title="Single Page Application">SPA</abbr> to PDF!
