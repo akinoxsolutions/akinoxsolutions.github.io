@@ -6,6 +6,7 @@
         "_site": true
     },
     "editor.rulers": [
+        80,
         100,
         120
     ]
