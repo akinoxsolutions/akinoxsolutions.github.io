@@ -111,3 +111,5 @@ templates, so I change the extension while copying them. It's also why I replace
 
 In the end, I end up with good looking HTML emails that are filled with Razor and
 can be sent to any user with any email client!
+
+**EDIT:** [Reddit discussion](https://www.reddit.com/r/programming/comments/627egf/html_emails_its_2017_and_email_is_still_horrible/)
