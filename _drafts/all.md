@@ -1,3 +1,4 @@
 - Pre-loading CSS Bundles with System.Web.Optimizations (in login page, with AtlasMUHC.sln).
 - Blog about Hangfire for scar-tissue
 - Blog about testing a Relay component with Mocha and testHelpers.js to override createContainer.
+- Using GraphQL to hide legacy application for future proofing and evolving old code.
