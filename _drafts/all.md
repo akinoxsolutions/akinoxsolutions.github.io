@@ -2,3 +2,5 @@
 - Blog about Hangfire for scar-tissue
 - Blog about testing a Relay component with Mocha and testHelpers.js to override createContainer.
 - Using GraphQL to hide legacy application for future proofing and evolving old code.
+- SQL Server DECLARE @p0 NVARCHAR = '%asf' = NVARCHAR(1) = '%'
+- Upload files with GraphQL
