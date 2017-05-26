@@ -4,3 +4,4 @@
 - Using GraphQL to hide legacy application for future proofing and evolving old code.
 - SQL Server DECLARE @p0 NVARCHAR = '%asf' = NVARCHAR(1) = '%'
 - Upload files with GraphQL
+- Auto format JS, SCSS with prettier and stylefmt.
